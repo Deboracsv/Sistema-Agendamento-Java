@@ -1,28 +1,48 @@
-<p align="center"> 
- <img src="headme/Java_Logo.svg" alt="Logo java" width="75">
+<p align="center">
+  <img src="readme/Java_Logo.svg" alt="Logo Java" width="75">
 </p>
 
-# <span style="color: #ffd500" > Sistema de Agendamento </span>
+# 💛 Sistema de Agendamento
 
-Sistema desenvolvido em Java para
-gerenciamento de consultas.
 
-## <span style="color: #ffd500" >Tecnologias utilizadas</span>
-- Java
-- Programação Orientada a Objetos
+<p align="center">
+  <strong> Sistema de gerenciamento de consultas desenvolvido em Java.</strong>
+</p>
+
+---
+
+## 🟡 Tecnologias utilizadas
+
+- ☕ Java
+- Programação Orientada a Objetos (POO)
 - ArrayList
 - LocalDateTime
 
-## <span style="color: #ffd500" > Funcionalidades </span>
-- Escolha de pacientes
+---
+
+## 🟡 Funcionalidades
+
+- Cadastro e escolha de pacientes
 - Escolha de profissionais
 - Agendamento de consultas
 - Validação de datas e horários
+- Prevenção de agendamentos duplicados
 - Cancelamento de consultas
 
+---
+
+## 🖥️ Demonstração
+
 <p align="center">
-    <img src="headme/test.jpg" alt="Minha Foto" width="500" height="800" >
+  <img src="readme/test.jpg" alt="Demonstração do projeto" width="500">
 </p>
 
-## <span style="color: #ffd500" > Autora </span>
-Desenvolvido por <span style="color: #ffd500" > Débora.
+---
+
+## 👩‍💻 Autora
+
+Desenvolvido por **Débora**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Deboracsv-000000?style=for-the-badge&logo=github&logoColor=FFD500)](https://github.com/Deboracsv)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-000000?style=for-the-badge&logo=linkedin&logoColor=FFD500)](https://www.linkedin.com/in/debora-costa-viana-237b163b9/)
